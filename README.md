@@ -7,3 +7,6 @@ A simple weather app created using [Flutter](https://flutter.dev/) and [Dart](ht
 - 3 days weather information
 
 ### App UI
+| <img src="https://github.com/mennamohamed97/Simple-Weather-App/blob/master/app%20screens/start.jpeg" style="width: 350px;"/> | <img src="https://github.com/mennamohamed97/Simple-Weather-App/blob/master/app%20screens/home1.jpeg" style="width: 350px;"/> |
+|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://github.com/mennamohamed97/Simple-Weather-App/blob/master/app%20screens/home2.jpeg" style="width: 350px;"/> | <img src="https://github.com/mennamohamed97/Simple-Weather-App/blob/master/app%20screens/detail.jpeg" style="width: 350px;"/> |
